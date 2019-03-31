@@ -1,0 +1,207 @@
+body{
+
+  text-align: center;
+  background-color: powderblue;
+      /* margin: 0; */
+}
+.top-box{
+  margin: 100px;
+  position:relative;
+}
+.top-cloud{
+ position: absolute;
+ right: 20%;
+ top:-10%;
+}
+.bottom-cloud{
+ position: absolute;
+ left: 20%;
+ bottom:70%;
+}
+.color-blue{
+  color: #66bfbf;
+}
+.middle-box{
+ left: 0px;
+ position: absolute;
+  width: 100%;
+ background-color:white;
+}
+.bottom-box{
+   background-color:#66bfbf;
+}
+.top-image{
+  margin: 100px auto -10px;
+  border-radius: 100%;
+  width:30%;
+}
+hr{
+  /* background-color: #f38181; */
+  /* border-width: 20; */
+  /* height: 10px; */
+  border-style: dotted none none none;
+  border-width: 3px;
+  height: 2px;
+  color: #eaf6f6;
+  background-color: white;
+  width: 10%;
+  position:static;
+  margin:100px auto 100px auto;
+  }
+  .middle-h{
+    position:static;
+    margin:0px auto 100px auto;
+  }
+  .middle-image1{
+    border-radius: 100%;
+    width:30%;
+  }
+  .intext{
+    float:right;
+  }
+  dl {
+    width: 100%;
+    overflow: hidden;
+    background: white;
+    padding: 0px;
+    margin: 0px;
+  }
+  .dt1 {
+    float: left;
+    width: 30%;
+    padding: 20px 0px 0px 0px;
+    margin: 0px;
+    text-align: right;
+  }
+  .dt2 {
+    float: right;
+    width: 30%;
+    padding: 20px 0px 0px 0px;
+    margin: 0px;
+    text-align: left;
+  }
+.dd1 {
+    float: left;
+    width: 50%;
+    background: white;
+    padding: 0px 0px 00px 20px;
+    margin: 0px;
+    text-align: left;
+     }
+.dd2 {
+    float: left;
+    width: 50%;
+    background: white;
+    padding: 0px 0px 0px 20px;
+    margin: 0px;
+    text-align: left;
+    }
+.dd3 {
+        float: left;
+        width: 50%;
+        background: white;
+        padding: 0px 0px 0px 20px;
+        margin: 0px;
+        text-align: left;
+    }
+    .dd4 {
+        float: right;
+        width: 50%;
+        background: white;
+        padding: 0px 0px 00px 20px;
+        margin: 0px;
+        text-align: left;
+         }
+    .dd5 {
+        float: right;
+        width: 50%;
+        background: white;
+        padding: 0px 0px 0px 20px;
+        margin: 0px;
+        text-align: left;
+        }
+    .dd6 {
+            float: right;
+            width: 50%;
+            background: white;
+            padding: 0px 0px 0px 20px;
+            margin: 0px;
+            text-align: left;
+        }
+        .button {
+            background-color: #008CBA;
+            border: none;
+            color: white;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px auto 50px auto;
+        }
+.middle-p1:hover{
+  color:gold;
+}
+.middle-p1{
+     color: #11999e;
+     float: left;
+     width: 40%;
+     text-align: right;
+     background: #66bfbf;
+     margin: 0px;
+}
+.middle-p2{
+     color: #11999e;
+     float: left;
+     width: 20%;
+     text-align: center;
+     background: #66bfbf;
+     margin: 0px;
+}
+.middle-p3{
+     color: #11999e;
+     float: right;
+     width: 40%;
+     text-align: left;
+     background-color: #66bfbf;
+     margin: 0px;
+}
+.middle-p4{
+  color:white;
+}
+/* .mountain{ */
+  /* position: absolute; */
+  /* text-align: left; */
+/* } */
+/*
+h1{
+  border-style: solid;
+    margin: 0;
+}
+div{
+    padding: 50px;
+}
+.top-box{
+ width:200px;
+ height:200px;
+ border:10px solid;
+ padding:20px;
+}
+
+.middle-box{
+ width:200px;
+ height:200px;
+ border:10px solid;
+ padding:20px;
+ margin-left: 260px;
+ background-color:red
+}
+
+.bottom-box{
+ width:200px;
+ height:200px;
+ border:10px solid;
+ padding:20px;
+ margin-left: 520px;
+ background-color:blue
+}
